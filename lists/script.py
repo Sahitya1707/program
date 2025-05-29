@@ -31,3 +31,9 @@ second_name = None
 print(numbers)
 print(strings)
 print("The second name on the names list is %s" % names[1])
+
+
+#printing the length
+print(len(names))
+
+# you can also use list() constructor to make a python list
